@@ -1,0 +1,21 @@
+body{
+    background-color: #23283e;
+    font-family: Arial, sans-serif;
+    color: #bdbddd;
+    margin: 0;
+}
+
+main{
+    width: 70%;
+    margin: 0 auto;
+    align-items: center;
+    z-index: 1;
+    padding-top: 40px;
+    overflow: scroll;
+    padding-bottom: 20px;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: bold;
+}
